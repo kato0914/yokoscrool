@@ -1,5 +1,3 @@
-HTML CSS JSResult Skip Results Iframe
-EDIT ON
 
    window.addEventListener("load", function(){
 

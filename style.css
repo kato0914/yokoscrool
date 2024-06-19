@@ -1,0 +1,21 @@
+.area{
+  overflow: hidden;
+}
+.wrap{
+  display: flex;
+}
+.item{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+}
+.item01{ background: #e94d15; }
+.item02{ background: #f18d1d; }
+.item03{ background: #f8b633; }
+.item04{ background: #8cc561; }
+.item05{ background: #56aa59; }
+.item06{ background: #3d6b35; }
